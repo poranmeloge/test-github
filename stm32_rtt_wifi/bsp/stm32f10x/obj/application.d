@@ -1,0 +1,11 @@
+.\obj\application.o: application.c
+.\obj\application.o: .\board.h
+.\obj\application.o: ..\..\include\rtthread.h
+.\obj\application.o: ..\..\include\rtdef.h
+.\obj\application.o: .\rtconfig.h
+.\obj\application.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\application.o: ..\..\include\rtdebug.h
+.\obj\application.o: ..\..\include\rtservice.h
+.\obj\application.o: ..\..\include\rtm.h
+.\obj\application.o: ..\..\include\rtthread.h
+.\obj\application.o: led.h

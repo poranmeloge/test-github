@@ -1,0 +1,10 @@
+.\obj\memheap.o: ..\..\src\memheap.c
+.\obj\memheap.o: ..\..\include\rthw.h
+.\obj\memheap.o: ..\..\include\rtthread.h
+.\obj\memheap.o: ..\..\include\rtdef.h
+.\obj\memheap.o: .\rtconfig.h
+.\obj\memheap.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\memheap.o: ..\..\include\rtdebug.h
+.\obj\memheap.o: ..\..\include\rtservice.h
+.\obj\memheap.o: ..\..\include\rtm.h
+.\obj\memheap.o: ..\..\include\rtthread.h

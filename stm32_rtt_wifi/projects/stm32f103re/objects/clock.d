@@ -1,0 +1,10 @@
+..\objects\clock.o: ..\..\..\src\clock.c
+..\objects\clock.o: ..\..\..\include\rthw.h
+..\objects\clock.o: ..\..\..\include\rtthread.h
+..\objects\clock.o: ..\..\..\include\rtdef.h
+..\objects\clock.o: ..\applications\rtconfig.h
+..\objects\clock.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+..\objects\clock.o: ..\..\..\include\rtdebug.h
+..\objects\clock.o: ..\..\..\include\rtservice.h
+..\objects\clock.o: ..\..\..\include\rtm.h
+..\objects\clock.o: ..\..\..\include\rtthread.h

@@ -1,0 +1,9 @@
+.\obj\backtrace.o: ..\..\libcpu\arm\common\backtrace.c
+.\obj\backtrace.o: ..\..\include\rtthread.h
+.\obj\backtrace.o: ..\..\include\rtdef.h
+.\obj\backtrace.o: .\rtconfig.h
+.\obj\backtrace.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\backtrace.o: ..\..\include\rtdebug.h
+.\obj\backtrace.o: ..\..\include\rtservice.h
+.\obj\backtrace.o: ..\..\include\rtm.h
+.\obj\backtrace.o: ..\..\include\rtthread.h

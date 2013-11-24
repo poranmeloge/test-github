@@ -1,0 +1,16 @@
+.\obj\finsh_vm.o: ..\..\components\finsh\finsh_vm.c
+.\obj\finsh_vm.o: ..\..\components\finsh\finsh.h
+.\obj\finsh_vm.o: ..\..\include\rtthread.h
+.\obj\finsh_vm.o: ..\..\include\rtdef.h
+.\obj\finsh_vm.o: .\rtconfig.h
+.\obj\finsh_vm.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\finsh_vm.o: ..\..\include\rtdebug.h
+.\obj\finsh_vm.o: ..\..\include\rtservice.h
+.\obj\finsh_vm.o: ..\..\include\rtm.h
+.\obj\finsh_vm.o: ..\..\include\rtthread.h
+.\obj\finsh_vm.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\obj\finsh_vm.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\finsh_vm.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\finsh_vm.o: ..\..\components\finsh\finsh_vm.h
+.\obj\finsh_vm.o: ..\..\components\finsh\finsh_var.h
+.\obj\finsh_vm.o: ..\..\components\finsh\finsh_ops.h

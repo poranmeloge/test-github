@@ -1,0 +1,10 @@
+..\objects\application.o: ..\applications\application.c
+..\objects\application.o: ..\drivers\board.h
+..\objects\application.o: ..\..\..\include\rtthread.h
+..\objects\application.o: ..\..\..\include\rtdef.h
+..\objects\application.o: ..\applications\rtconfig.h
+..\objects\application.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+..\objects\application.o: ..\..\..\include\rtdebug.h
+..\objects\application.o: ..\..\..\include\rtservice.h
+..\objects\application.o: ..\..\..\include\rtm.h
+..\objects\application.o: ..\..\..\include\rtthread.h

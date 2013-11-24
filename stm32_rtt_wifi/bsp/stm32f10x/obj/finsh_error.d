@@ -1,0 +1,14 @@
+.\obj\finsh_error.o: ..\..\components\finsh\finsh_error.c
+.\obj\finsh_error.o: ..\..\components\finsh\finsh_error.h
+.\obj\finsh_error.o: ..\..\components\finsh\finsh.h
+.\obj\finsh_error.o: ..\..\include\rtthread.h
+.\obj\finsh_error.o: ..\..\include\rtdef.h
+.\obj\finsh_error.o: .\rtconfig.h
+.\obj\finsh_error.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\finsh_error.o: ..\..\include\rtdebug.h
+.\obj\finsh_error.o: ..\..\include\rtservice.h
+.\obj\finsh_error.o: ..\..\include\rtm.h
+.\obj\finsh_error.o: ..\..\include\rtthread.h
+.\obj\finsh_error.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\obj\finsh_error.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\finsh_error.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h

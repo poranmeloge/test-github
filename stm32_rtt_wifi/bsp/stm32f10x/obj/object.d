@@ -1,0 +1,10 @@
+.\obj\object.o: ..\..\src\object.c
+.\obj\object.o: ..\..\include\rtthread.h
+.\obj\object.o: ..\..\include\rtdef.h
+.\obj\object.o: .\rtconfig.h
+.\obj\object.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\object.o: ..\..\include\rtdebug.h
+.\obj\object.o: ..\..\include\rtservice.h
+.\obj\object.o: ..\..\include\rtm.h
+.\obj\object.o: ..\..\include\rtthread.h
+.\obj\object.o: ..\..\include\rthw.h
